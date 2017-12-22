@@ -1,0 +1,12 @@
+li a
+{
+  color:green;
+}
+
+body
+{
+  background-image: url("images/background.gif"), url("images/spaghettimonstervsjesus.gif");
+  background-position: top right, bottom center;
+  background-repeat: no-repeat;
+  background-size: 50% 50%;
+}
